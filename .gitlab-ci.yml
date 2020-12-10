@@ -23,15 +23,25 @@ branch::publish:
 
     dotnet test -v minimal -c Release /p:CollectCoverage=true
 
-    echo ---------------------------------------------- VERSIONING
+    echo ---------------------------------------------- VERSION #1
 
     echo VERSION := $CI_COMMIT_TAG
 
-    sed -i -- "s/1\.0\.0\.0/${CI_COMMIT_TAG}/g" ./FunctionalLink/FunctionalLink.csproj
+    sed -i -- "s/1\.0\.0\.0/${CI_COMMIT_TAG}/g" ./RollsEngine.Newtonsoft/RollsEngine.Newtonsoft.csproj
 
-    echo ---------------------------------------------- BUILDING
+    echo ---------------------------------------------- VERSION #2
 
-    cd FunctionalLink
+    sed -i -- "s/1\.0\.0\.0/${CI_COMMIT_TAG}/g" ./RollsEngine.Newtonsoft/RollsEngine.Newtonsoft.csproj
+
+    echo ---------------------------------------------- BUILD #1
+
+    cd RollsEngine
+    dotnet pack -c Release
+    cd ..
+
+    echo ---------------------------------------------- BUILD #2
+
+    cd RollsEngine.Newtonsoft
     dotnet pack -c Release
     cd ..
 
