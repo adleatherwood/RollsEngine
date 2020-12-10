@@ -1,0 +1,5426 @@
+{
+  "RollsEngine.dll": {
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\Parser.cs": {
+      "RollsEngine.Parsers": {
+        "RollsEngine.Parser`1<System.String> RollsEngine.Parsers::Token(System.String)": {
+          "Lines": {
+            "86": 40,
+            "87": 40,
+            "88": 40,
+            "89": 40
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Parsers::.cctor()": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1,
+            "18": 1,
+            "19": 1,
+            "20": 163,
+            "22": 1,
+            "23": 1,
+            "24": 93,
+            "26": 1,
+            "27": 1,
+            "28": 27,
+            "30": 1,
+            "31": 1,
+            "32": 7,
+            "34": 1,
+            "35": 153,
+            "36": 54,
+            "37": 24,
+            "38": 4,
+            "39": 1,
+            "41": 1,
+            "42": 1,
+            "43": 200,
+            "45": 1,
+            "46": 443,
+            "47": 443,
+            "48": 364,
+            "49": 1,
+            "50": 80,
+            "51": 1,
+            "52": 3820,
+            "53": 1286,
+            "54": 1300,
+            "55": 2376,
+            "56": 1129,
+            "57": 1083,
+            "58": 1080,
+            "59": 0,
+            "60": 1092,
+            "61": 1068,
+            "62": 1,
+            "63": 1065,
+            "64": 1074,
+            "65": 1042,
+            "66": 0,
+            "67": 1031,
+            "68": 1029,
+            "69": 1196,
+            "70": 1,
+            "71": 4,
+            "72": 443,
+            "73": 77,
+            "74": 1,
+            "76": 1,
+            "77": 0,
+            "79": 1,
+            "80": 71,
+            "81": 199,
+            "82": 47,
+            "83": 1,
+            "93": 1,
+            "94": 1,
+            "95": 1,
+            "96": 1,
+            "97": 1,
+            "98": 51,
+            "99": 51,
+            "100": 51,
+            "101": 51,
+            "102": 51,
+            "103": 1,
+            "107": 1,
+            "108": 5,
+            "109": 26,
+            "110": 3,
+            "111": 32,
+            "112": 7,
+            "113": 6,
+            "114": 1,
+            "116": 1,
+            "117": 1,
+            "118": 90,
+            "119": 90,
+            "120": 90,
+            "121": 90,
+            "122": 90,
+            "123": 1,
+            "127": 1,
+            "128": 0,
+            "130": 1,
+            "131": 67,
+            "132": 9,
+            "133": 1,
+            "135": 1,
+            "136": 1,
+            "137": 75,
+            "138": 75,
+            "139": 75,
+            "140": 75,
+            "141": 75,
+            "142": 1,
+            "144": 1,
+            "145": 1,
+            "146": 53,
+            "147": 53,
+            "148": 53,
+            "149": 53,
+            "150": 53,
+            "151": 1,
+            "153": 1,
+            "154": 1,
+            "155": 1,
+            "156": 1,
+            "157": 1,
+            "158": 32,
+            "159": 32,
+            "160": 32,
+            "161": 32,
+            "162": 32,
+            "163": 1,
+            "167": 1,
+            "168": 33,
+            "169": 1,
+            "170": 1,
+            "171": 2,
+            "172": 2,
+            "173": 2,
+            "174": 2,
+            "175": 2,
+            "176": 1,
+            "177": 1,
+            "178": 1,
+            "179": 1,
+            "180": 0,
+            "181": 1,
+            "182": 1,
+            "183": 1,
+            "184": 6,
+            "185": 6,
+            "186": 6,
+            "187": 6,
+            "188": 6,
+            "189": 6,
+            "191": 1,
+            "192": 1,
+            "196": 1,
+            "197": 49,
+            "198": 1,
+            "199": 1,
+            "200": 1,
+            "201": 1,
+            "202": 2,
+            "203": 1,
+            "204": 1,
+            "205": 1,
+            "206": 58,
+            "207": 58,
+            "208": 58,
+            "209": 58,
+            "210": 58,
+            "212": 1,
+            "213": 1,
+            "215": 1,
+            "216": 1,
+            "217": 1,
+            "218": 6,
+            "219": 54,
+            "220": 1,
+            "224": 1,
+            "225": 1,
+            "226": 1,
+            "227": 43,
+            "228": 43,
+            "229": 43,
+            "230": 43,
+            "234": 1,
+            "235": 1,
+            "236": 1,
+            "237": 23,
+            "238": 23,
+            "239": 23,
+            "240": 23,
+            "244": 1,
+            "245": 1,
+            "246": 1,
+            "247": 6,
+            "248": 6,
+            "249": 6,
+            "250": 6,
+            "254": 1,
+            "255": 2,
+            "256": 7,
+            "258": 1,
+            "259": 1,
+            "260": 14,
+            "261": 14,
+            "262": 14,
+            "263": 14,
+            "264": 14,
+            "266": 1,
+            "267": 1,
+            "268": 1,
+            "269": 10,
+            "270": 10,
+            "271": 10,
+            "272": 10,
+            "276": 1,
+            "277": 1,
+            "278": 1,
+            "279": 6,
+            "280": 6,
+            "281": 6,
+            "282": 6,
+            "286": 1,
+            "287": 1,
+            "288": 1,
+            "289": 1,
+            "290": 1,
+            "291": 1,
+            "292": 1,
+            "293": 1,
+            "294": 59,
+            "295": 59,
+            "296": 59,
+            "297": 59,
+            "298": 59,
+            "299": 59,
+            "300": 59,
+            "301": 59,
+            "302": 59,
+            "305": 1,
+            "306": 1,
+            "307": 1,
+            "308": 1
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 438
+            },
+            {
+              "Line": 47,
+              "Offset": 8,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 47,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 363
+            },
+            {
+              "Line": 47,
+              "Offset": 29,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 79
+            },
+            {
+              "Line": 52,
+              "Offset": 514,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 47,
+              "Hits": 1271
+            },
+            {
+              "Line": 53,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1265
+            },
+            {
+              "Line": 53,
+              "Offset": 57,
+              "EndOffset": 72,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 53,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 14
+            },
+            {
+              "Line": 53,
+              "Offset": 77,
+              "EndOffset": 83,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1271
+            },
+            {
+              "Line": 54,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1251
+            },
+            {
+              "Line": 54,
+              "Offset": 92,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 20
+            },
+            {
+              "Line": 54,
+              "Offset": 112,
+              "EndOffset": 114,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 28
+            },
+            {
+              "Line": 54,
+              "Offset": 112,
+              "EndOffset": 118,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 1271
+            },
+            {
+              "Line": 55,
+              "Offset": 129,
+              "EndOffset": 134,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1104
+            },
+            {
+              "Line": 56,
+              "Offset": 150,
+              "EndOffset": 152,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 24
+            },
+            {
+              "Line": 56,
+              "Offset": 150,
+              "EndOffset": 159,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 1080
+            },
+            {
+              "Line": 57,
+              "Offset": 174,
+              "EndOffset": 176,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 174,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 1078
+            },
+            {
+              "Line": 58,
+              "Offset": 198,
+              "EndOffset": 200,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 1
+            },
+            {
+              "Line": 58,
+              "Offset": 198,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 1077
+            },
+            {
+              "Line": 59,
+              "Offset": 222,
+              "EndOffset": 224,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 222,
+              "EndOffset": 231,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 1077
+            },
+            {
+              "Line": 60,
+              "Offset": 246,
+              "EndOffset": 248,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 14
+            },
+            {
+              "Line": 60,
+              "Offset": 246,
+              "EndOffset": 255,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 1063
+            },
+            {
+              "Line": 61,
+              "Offset": 270,
+              "EndOffset": 272,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 4
+            },
+            {
+              "Line": 61,
+              "Offset": 270,
+              "EndOffset": 279,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 1059
+            },
+            {
+              "Line": 63,
+              "Offset": 288,
+              "EndOffset": 290,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 1056
+            },
+            {
+              "Line": 63,
+              "Offset": 288,
+              "EndOffset": 310,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 3
+            },
+            {
+              "Line": 63,
+              "Offset": 315,
+              "EndOffset": 317,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 5
+            },
+            {
+              "Line": 63,
+              "Offset": 315,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 1054
+            },
+            {
+              "Line": 64,
+              "Offset": 333,
+              "EndOffset": 335,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 1027
+            },
+            {
+              "Line": 64,
+              "Offset": 333,
+              "EndOffset": 355,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 27
+            },
+            {
+              "Line": 64,
+              "Offset": 360,
+              "EndOffset": 362,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 19
+            },
+            {
+              "Line": 64,
+              "Offset": 360,
+              "EndOffset": 369,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 1035
+            },
+            {
+              "Line": 65,
+              "Offset": 378,
+              "EndOffset": 380,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 1008
+            },
+            {
+              "Line": 65,
+              "Offset": 378,
+              "EndOffset": 400,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 27
+            },
+            {
+              "Line": 65,
+              "Offset": 405,
+              "EndOffset": 407,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 6
+            },
+            {
+              "Line": 65,
+              "Offset": 405,
+              "EndOffset": 411,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 1029
+            },
+            {
+              "Line": 66,
+              "Offset": 420,
+              "EndOffset": 422,
+              "Path": 0,
+              "Ordinal": 38,
+              "Hits": 990
+            },
+            {
+              "Line": 66,
+              "Offset": 420,
+              "EndOffset": 442,
+              "Path": 1,
+              "Ordinal": 39,
+              "Hits": 39
+            },
+            {
+              "Line": 66,
+              "Offset": 447,
+              "EndOffset": 449,
+              "Path": 0,
+              "Ordinal": 40,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 447,
+              "EndOffset": 453,
+              "Path": 1,
+              "Ordinal": 41,
+              "Hits": 1029
+            },
+            {
+              "Line": 67,
+              "Offset": 462,
+              "EndOffset": 464,
+              "Path": 0,
+              "Ordinal": 42,
+              "Hits": 990
+            },
+            {
+              "Line": 67,
+              "Offset": 462,
+              "EndOffset": 484,
+              "Path": 1,
+              "Ordinal": 43,
+              "Hits": 39
+            },
+            {
+              "Line": 67,
+              "Offset": 489,
+              "EndOffset": 491,
+              "Path": 0,
+              "Ordinal": 44,
+              "Hits": 1
+            },
+            {
+              "Line": 67,
+              "Offset": 489,
+              "EndOffset": 495,
+              "Path": 1,
+              "Ordinal": 45,
+              "Hits": 1028
+            },
+            {
+              "Line": 55,
+              "Offset": 129,
+              "EndOffset": 496,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 1195
+            },
+            {
+              "Line": 52,
+              "Offset": 514,
+              "EndOffset": 519,
+              "Path": 0,
+              "Ordinal": 46,
+              "Hits": 3
+            },
+            {
+              "Line": 184,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 184,
+              "Offset": 17,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 206,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 53
+            },
+            {
+              "Line": 206,
+              "Offset": 17,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        }
+      }
+    },
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\ParserLib.cs": {
+      "RollsEngine.Input": {
+        "System.Boolean RollsEngine.Input::get_IsEmpty()": {
+          "Lines": {
+            "20": 54529
+          },
+          "Branches": []
+        },
+        "System.Boolean RollsEngine.Input::TryTake(System.String,System.ValueTuple`2<RollsEngine.Input,System.String>&,System.Boolean)": {
+          "Lines": {
+            "23": 13466,
+            "24": 13466,
+            "26": 13466,
+            "27": 13466,
+            "28": 13466,
+            "30": 13466,
+            "31": 13466,
+            "32": 13466,
+            "34": 13466,
+            "36": 13466,
+            "37": 13466
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 12083
+            },
+            {
+              "Line": 26,
+              "Offset": 38,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8472
+            },
+            {
+              "Line": 26,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 8472
+            },
+            {
+              "Line": 26,
+              "Offset": 61,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4994
+            },
+            {
+              "Line": 30,
+              "Offset": 100,
+              "EndOffset": 102,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 8472
+            },
+            {
+              "Line": 30,
+              "Offset": 100,
+              "EndOffset": 105,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 4994
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Input::TryTake(System.Text.RegularExpressions.Regex,System.ValueTuple`2<RollsEngine.Input,System.Text.RegularExpressions.Match>&)": {
+          "Lines": {
+            "39": 1682,
+            "40": 1682,
+            "42": 1682,
+            "43": 1682,
+            "44": 1682,
+            "46": 1682,
+            "47": 1682,
+            "48": 1682,
+            "50": 1682,
+            "52": 1682,
+            "53": 1682
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 908
+            },
+            {
+              "Line": 42,
+              "Offset": 26,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1195
+            },
+            {
+              "Line": 42,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1195
+            },
+            {
+              "Line": 42,
+              "Offset": 40,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 487
+            },
+            {
+              "Line": 46,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1195
+            },
+            {
+              "Line": 46,
+              "Offset": 48,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 487
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Input::TryRead(System.Func`3<System.String,System.Int32,System.Int32>,System.ValueTuple`2<RollsEngine.Input,System.String>&)": {
+          "Lines": {
+            "55": 442,
+            "56": 442,
+            "58": 442,
+            "59": 442,
+            "60": 442,
+            "62": 442,
+            "63": 442,
+            "64": 442,
+            "66": 442,
+            "68": 442,
+            "69": 442
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 366
+            },
+            {
+              "Line": 58,
+              "Offset": 27,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 76
+            },
+            {
+              "Line": 62,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 366
+            },
+            {
+              "Line": 62,
+              "Offset": 59,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 76
+            }
+          ]
+        },
+        "RollsEngine.Input RollsEngine.Input::Create(System.String)": {
+          "Lines": {
+            "72": 202
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Input::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "14": 5759,
+            "15": 5759
+          },
+          "Branches": []
+        }
+      },
+      "RollsEngine.Parser`1": {
+        "RollsEngine.Parse`1<T> RollsEngine.Parser`1::get_Parse()": {
+          "Lines": {
+            "83": 51050
+          },
+          "Branches": []
+        },
+        "RollsEngine.Parse`1<T> RollsEngine.Parser`1::Default(RollsEngine.Parse`1<T>)": {
+          "Lines": {
+            "86": 455,
+            "87": 455,
+            "88": 54984,
+            "89": 54984,
+            "90": 0,
+            "91": 455,
+            "92": 54984,
+            "93": 54984,
+            "94": 455
+          },
+          "Branches": [
+            {
+              "Line": 89,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 9,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 54529
+            }
+          ]
+        },
+        "System.Void RollsEngine.Parser`1::Inject(RollsEngine.Parse`1<T>)": {
+          "Lines": {
+            "98": 2,
+            "99": 2,
+            "100": 2
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Parser`1::.ctor(System.String,RollsEngine.Parse`1<T>)": {
+          "Lines": {
+            "79": 455,
+            "80": 455
+          },
+          "Branches": []
+        }
+      },
+      "RollsEngine.Parser": {
+        "RollsEngine.Parser`1<System.Text.RegularExpressions.Match> RollsEngine.Parser::Satisfy(System.String,System.Text.RegularExpressions.Regex)": {
+          "Lines": {
+            "106": 1690,
+            "107": 1690,
+            "108": 1690,
+            "109": 1690,
+            "110": 1690
+          },
+          "Branches": [
+            {
+              "Line": 107,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1195
+            },
+            {
+              "Line": 107,
+              "Offset": 15,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 487
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<System.String> RollsEngine.Parser::Satisfy(System.String,System.String,System.Boolean)": {
+          "Lines": {
+            "113": 13560,
+            "114": 13560,
+            "115": 13560,
+            "116": 13560,
+            "117": 13560
+          },
+          "Branches": [
+            {
+              "Line": 114,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8472
+            },
+            {
+              "Line": 114,
+              "Offset": 21,
+              "EndOffset": 51,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4994
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<System.String> RollsEngine.Parser::Read(System.String,System.Func`3<System.String,System.Int32,System.Int32>)": {
+          "Lines": {
+            "120": 443,
+            "121": 443,
+            "122": 443,
+            "123": 443,
+            "124": 443
+          },
+          "Branches": [
+            {
+              "Line": 121,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 366
+            },
+            {
+              "Line": 121,
+              "Offset": 15,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 76
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T> RollsEngine.Parser::Create(System.String,RollsEngine.Parse`1<T>)": {
+          "Lines": {
+            "127": 128
+          },
+          "Branches": []
+        },
+        "RollsEngine.Parser`1<T> RollsEngine.Parser::Label(RollsEngine.Parser`1<T>,System.String)": {
+          "Lines": {
+            "130": 72,
+            "131": 72,
+            "132": 72
+          },
+          "Branches": [
+            {
+              "Line": 130,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 51
+            },
+            {
+              "Line": 130,
+              "Offset": 6,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 21
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<System.String> RollsEngine.Parser::Exact(System.String,System.String)": {
+          "Lines": {
+            "135": 91
+          },
+          "Branches": []
+        },
+        "RollsEngine.Parser`1<System.ValueTuple`2<A,B>> RollsEngine.Parser::And(RollsEngine.Parser`1<A>,RollsEngine.Parser`1<B>,System.String)": {
+          "Lines": {
+            "138": 31,
+            "139": 1482,
+            "140": 2494,
+            "141": 3394,
+            "142": 2606,
+            "143": 1921
+          },
+          "Branches": [
+            {
+              "Line": 139,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 30
+            },
+            {
+              "Line": 139,
+              "Offset": 24,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1451
+            },
+            {
+              "Line": 139,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 23
+            },
+            {
+              "Line": 139,
+              "Offset": 54,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1451
+            },
+            {
+              "Line": 140,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 23
+            },
+            {
+              "Line": 140,
+              "Offset": 58,
+              "EndOffset": 83,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1012
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T> RollsEngine.Parser::Or(RollsEngine.Parser`1<T>,RollsEngine.Parser`1<T>,System.String)": {
+          "Lines": {
+            "146": 27,
+            "147": 16466,
+            "148": 26050,
+            "149": 23321,
+            "150": 24188,
+            "151": 29309
+          },
+          "Branches": [
+            {
+              "Line": 147,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 147,
+              "Offset": 48,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16439
+            },
+            {
+              "Line": 149,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 149,
+              "Offset": 33,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6855
+            },
+            {
+              "Line": 149,
+              "Offset": 64,
+              "EndOffset": 66,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 9
+            },
+            {
+              "Line": 149,
+              "Offset": 64,
+              "EndOffset": 89,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6855
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<A> RollsEngine.Parser::Skip(RollsEngine.Parser`1<A>,RollsEngine.Parser`1<B>,System.String)": {
+          "Lines": {
+            "154": 62,
+            "155": 2882,
+            "156": 3973,
+            "157": 4964,
+            "158": 4073,
+            "159": 4611
+          },
+          "Branches": [
+            {
+              "Line": 155,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 62
+            },
+            {
+              "Line": 155,
+              "Offset": 24,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2820
+            },
+            {
+              "Line": 155,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 14
+            },
+            {
+              "Line": 155,
+              "Offset": 54,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2820
+            },
+            {
+              "Line": 156,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 14
+            },
+            {
+              "Line": 156,
+              "Offset": 58,
+              "EndOffset": 83,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1091
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<B> RollsEngine.Parser::Take(RollsEngine.Parser`1<A>,RollsEngine.Parser`1<B>,System.String)": {
+          "Lines": {
+            "162": 53,
+            "163": 2253,
+            "164": 4132,
+            "165": 4913,
+            "166": 5230,
+            "167": 2574
+          },
+          "Branches": [
+            {
+              "Line": 163,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 53
+            },
+            {
+              "Line": 163,
+              "Offset": 24,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2200
+            },
+            {
+              "Line": 163,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 11
+            },
+            {
+              "Line": 163,
+              "Offset": 54,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2200
+            },
+            {
+              "Line": 164,
+              "Offset": 28,
+              "EndOffset": 30,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 11
+            },
+            {
+              "Line": 164,
+              "Offset": 28,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1879
+            },
+            {
+              "Line": 164,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 11
+            },
+            {
+              "Line": 164,
+              "Offset": 59,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1879
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<B> RollsEngine.Parser::Map(RollsEngine.Parser`1<A>,System.Func`2<A,B>,System.String)": {
+          "Lines": {
+            "170": 4031
+          },
+          "Branches": []
+        },
+        "RollsEngine.Parser`1<B> RollsEngine.Parser::Map(RollsEngine.Parser`1<A>,System.Func`2<A,FunctionalLink.Result`1<B>>,System.String)": {
+          "Lines": {
+            "173": 9098,
+            "174": 13547,
+            "175": 17996,
+            "176": 0,
+            "177": 13671
+          },
+          "Branches": [
+            {
+              "Line": 173,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 75
+            },
+            {
+              "Line": 173,
+              "Offset": 24,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 9022
+            },
+            {
+              "Line": 173,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 52
+            },
+            {
+              "Line": 173,
+              "Offset": 54,
+              "EndOffset": 79,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 9022
+            },
+            {
+              "Line": 174,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 51
+            },
+            {
+              "Line": 174,
+              "Offset": 53,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4449
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T[]> RollsEngine.Parser::Many(RollsEngine.Parser`1<T>,System.String)": {
+          "Lines": {
+            "180": 21,
+            "181": 2428,
+            "182": 2428,
+            "183": 2428,
+            "184": 2428,
+            "185": 21,
+            "186": 9386,
+            "187": 6979,
+            "188": 29734,
+            "189": 16607,
+            "190": 21,
+            "191": 2428,
+            "192": 2428
+          },
+          "Branches": [
+            {
+              "Line": 186,
+              "Offset": 94,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6958
+            },
+            {
+              "Line": 186,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2407
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T[]> RollsEngine.Parser::Many1(RollsEngine.Parser`1<T>,System.String)": {
+          "Lines": {
+            "195": 11,
+            "196": 11,
+            "197": 104,
+            "198": 11
+          },
+          "Branches": [
+            {
+              "Line": 195,
+              "Offset": 28,
+              "EndOffset": 30,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 195,
+              "Offset": 28,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<FunctionalLink.Option`1<T>> RollsEngine.Parser::Optional(RollsEngine.Parser`1<T>,System.String)": {
+          "Lines": {
+            "201": 1097,
+            "202": 1415,
+            "203": 1847
+          },
+          "Branches": [
+            {
+              "Line": 201,
+              "Offset": 41,
+              "EndOffset": 43,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 201,
+              "Offset": 41,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1068
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T[]> RollsEngine.Parser::Separated(RollsEngine.Parser`1<T>,RollsEngine.Parser`1<D>,System.String)": {
+          "Lines": {
+            "206": 4,
+            "207": 57,
+            "208": 4
+          },
+          "Branches": [
+            {
+              "Line": 206,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 206,
+              "Offset": 38,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        },
+        "RollsEngine.Parser`1<T[]> RollsEngine.Parser::Separated1(RollsEngine.Parser`1<T>,RollsEngine.Parser`1<D>,System.String)": {
+          "Lines": {
+            "211": 7,
+            "212": 98,
+            "213": 7
+          },
+          "Branches": [
+            {
+              "Line": 211,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 211,
+              "Offset": 38,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 7
+            }
+          ]
+        },
+        "System.ValueTuple`3<A,B,C> RollsEngine.Parser::Flatten3(System.ValueTuple`2<System.ValueTuple`2<A,B>,C>)": {
+          "Lines": {
+            "216": 57
+          },
+          "Branches": []
+        },
+        "System.ValueTuple`4<A,B,C,D> RollsEngine.Parser::Flatten4(System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<A,B>,C>,D>)": {
+          "Lines": {
+            "219": 5
+          },
+          "Branches": []
+        },
+        "System.ValueTuple`5<A,B,C,D,E> RollsEngine.Parser::Flatten5(System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<A,B>,C>,D>,E>)": {
+          "Lines": {
+            "222": 0
+          },
+          "Branches": []
+        },
+        "System.ValueTuple`6<A,B,C,D,E,F> RollsEngine.Parser::Flatten6(System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<System.ValueTuple`2<A,B>,C>,D>,E>,F>)": {
+          "Lines": {
+            "225": 58
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Parser::.cctor()": {
+          "Lines": {
+            "227": 1,
+            "228": 1,
+            "229": 1,
+            "230": 1,
+            "232": 1,
+            "233": 1,
+            "234": 2176,
+            "236": 1,
+            "237": 1,
+            "238": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\Query.cs": {
+      "RollsEngine.RollsQuery": {
+        "System.Collections.Generic.IEnumerable`1<TObject> RollsEngine.RollsQuery::Execute(RollsEngine.IDataService`1<TObject>,System.String)": {
+          "Lines": {
+            "15": 57,
+            "16": 57,
+            "18": 57,
+            "20": 57,
+            "21": 114,
+            "22": 0,
+            "24": 57,
+            "25": 97,
+            "26": 74,
+            "28": 57,
+            "29": 106,
+            "30": 93,
+            "32": 57,
+            "33": 57,
+            "34": 57,
+            "35": 57,
+            "36": 57,
+            "38": 57,
+            "39": 62,
+            "40": 109,
+            "42": 57,
+            "43": 64,
+            "44": 107,
+            "48": 57,
+            "49": 61,
+            "50": 110,
+            "52": 57,
+            "53": 57,
+            "54": 57,
+            "55": 57,
+            "56": 62,
+            "58": 57,
+            "59": 57
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 20,
+              "Offset": 60,
+              "EndOffset": 85,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 57
+            },
+            {
+              "Line": 20,
+              "Offset": 91,
+              "EndOffset": 93,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 20,
+              "Offset": 91,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 57
+            },
+            {
+              "Line": 24,
+              "Offset": 134,
+              "EndOffset": 136,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 134,
+              "EndOffset": 159,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 57
+            },
+            {
+              "Line": 24,
+              "Offset": 165,
+              "EndOffset": 167,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 24,
+              "Offset": 165,
+              "EndOffset": 190,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 57
+            },
+            {
+              "Line": 28,
+              "Offset": 209,
+              "EndOffset": 211,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 28,
+              "Offset": 209,
+              "EndOffset": 234,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 57
+            },
+            {
+              "Line": 28,
+              "Offset": 240,
+              "EndOffset": 242,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 28,
+              "Offset": 240,
+              "EndOffset": 265,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 57
+            },
+            {
+              "Line": 32,
+              "Offset": 284,
+              "EndOffset": 286,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 17
+            },
+            {
+              "Line": 32,
+              "Offset": 284,
+              "EndOffset": 316,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 40
+            },
+            {
+              "Line": 32,
+              "Offset": 323,
+              "EndOffset": 325,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 19
+            },
+            {
+              "Line": 32,
+              "Offset": 323,
+              "EndOffset": 340,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 21
+            },
+            {
+              "Line": 52,
+              "Offset": 490,
+              "EndOffset": 492,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 5
+            },
+            {
+              "Line": 52,
+              "Offset": 490,
+              "EndOffset": 561,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 52
+            },
+            {
+              "Line": 29,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 29,
+              "Offset": 12,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 21
+            }
+          ]
+        },
+        "System.Void RollsEngine.RollsQuery::.cctor()": {
+          "Lines": {
+            "11": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\TypeExtensions.cs": {
+      "RollsEngine.Types": {
+        "System.String RollsEngine.Types::ToText(RollsEngine.NumberLiteral)": {
+          "Lines": {
+            "11": 113
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.TextLiteral)": {
+          "Lines": {
+            "14": 11
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.BoolLiteral)": {
+          "Lines": {
+            "17": 21
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 17,
+              "Offset": 6,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 15
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.NullLiteral)": {
+          "Lines": {
+            "20": 2
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.LiteralExpression1)": {
+          "Lines": {
+            "23": 147,
+            "24": 147,
+            "25": 147,
+            "26": 147
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 34
+            },
+            {
+              "Line": 23,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 23
+            },
+            {
+              "Line": 23,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 23,
+              "Offset": 22,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 21
+            },
+            {
+              "Line": 23,
+              "Offset": 14,
+              "EndOffset": 50,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 11
+            },
+            {
+              "Line": 23,
+              "Offset": 6,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 113
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.ValueExpression1)": {
+          "Lines": {
+            "29": 161,
+            "30": 161,
+            "31": 161
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 152
+            },
+            {
+              "Line": 29,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 5
+            },
+            {
+              "Line": 29,
+              "Offset": 14,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 147
+            },
+            {
+              "Line": 29,
+              "Offset": 6,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 9
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.FunctionExpression)": {
+          "Lines": {
+            "34": 9,
+            "35": 9
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.CompareExpression)": {
+          "Lines": {
+            "38": 144,
+            "39": 144,
+            "40": 144,
+            "41": 144,
+            "42": 144,
+            "43": 144,
+            "44": 144,
+            "45": 144,
+            "46": 144
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 43
+            },
+            {
+              "Line": 39,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 40
+            },
+            {
+              "Line": 39,
+              "Offset": 25,
+              "EndOffset": 27,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 11
+            },
+            {
+              "Line": 39,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 9
+            },
+            {
+              "Line": 39,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 4
+            },
+            {
+              "Line": 39,
+              "Offset": 43,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 5
+            },
+            {
+              "Line": 39,
+              "Offset": 34,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 39,
+              "Offset": 25,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 29
+            },
+            {
+              "Line": 39,
+              "Offset": 16,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 39,
+              "Offset": 7,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 23
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.LogicalFactor1)": {
+          "Lines": {
+            "49": 63,
+            "50": 63
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 8
+            },
+            {
+              "Line": 49,
+              "Offset": 6,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 55
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.LogicalArgument)": {
+          "Lines": {
+            "53": 63
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 61
+            },
+            {
+              "Line": 53,
+              "Offset": 6,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.LogicalTerm)": {
+          "Lines": {
+            "56": 43,
+            "57": 43,
+            "58": 43,
+            "59": 43
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 28
+            },
+            {
+              "Line": 56,
+              "Offset": 18,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 15
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.LogicalExpression)": {
+          "Lines": {
+            "62": 26,
+            "63": 26,
+            "64": 26,
+            "65": 26
+          },
+          "Branches": [
+            {
+              "Line": 62,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 15
+            },
+            {
+              "Line": 62,
+              "Offset": 23,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11
+            }
+          ]
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.SelectStatement)": {
+          "Lines": {
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Types::ToText(RollsEngine.SelectExpression1)": {
+          "Lines": {
+            "71": 0
+          },
+          "Branches": []
+        }
+      },
+      "RollsEngine.Type": {
+        "System.IComparable RollsEngine.Type::ToObject(RollsEngine.LiteralExpression1)": {
+          "Lines": {
+            "77": 170,
+            "78": 170,
+            "79": 170,
+            "80": 170
+          },
+          "Branches": [
+            {
+              "Line": 77,
+              "Offset": 6,
+              "EndOffset": 8,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 72
+            },
+            {
+              "Line": 77,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 12
+            },
+            {
+              "Line": 77,
+              "Offset": 22,
+              "EndOffset": 24,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 77,
+              "Offset": 22,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 12
+            },
+            {
+              "Line": 77,
+              "Offset": 14,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 60
+            },
+            {
+              "Line": 77,
+              "Offset": 6,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 98
+            }
+          ]
+        },
+        "TObject RollsEngine.Type::ToObject(System.Collections.Generic.Dictionary`2<System.String,System.Decimal>,RollsEngine.IDataService`1<TObject>)": {
+          "Lines": {
+            "83": 5,
+            "84": 5,
+            "86": 37,
+            "87": 5,
+            "90": 5,
+            "91": 5,
+            "93": 5,
+            "94": 5
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 21,
+              "EndOffset": 46,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            },
+            {
+              "Line": 86,
+              "Offset": 122,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5
+            },
+            {
+              "Line": 90,
+              "Offset": 94,
+              "EndOffset": 96,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 5
+            },
+            {
+              "Line": 90,
+              "Offset": 94,
+              "EndOffset": 99,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 86,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            }
+          ]
+        },
+        "System.String RollsEngine.Type::ImpliedName(RollsEngine.Path)": {
+          "Lines": {
+            "100": 46,
+            "101": 46,
+            "102": 46,
+            "104": 46,
+            "106": 46,
+            "108": 46,
+            "110": 46,
+            "111": 46
+          },
+          "Branches": [
+            {
+              "Line": 104,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 104,
+              "Offset": 19,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 44
+            },
+            {
+              "Line": 108,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 40
+            },
+            {
+              "Line": 108,
+              "Offset": 44,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            }
+          ]
+        },
+        "System.String RollsEngine.Type::ImpliedName(RollsEngine.SelectStatement)": {
+          "Lines": {
+            "117": 84,
+            "118": 119,
+            "119": 84,
+            "120": 84,
+            "121": 84
+          },
+          "Branches": [
+            {
+              "Line": 117,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 49
+            },
+            {
+              "Line": 117,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 46
+            },
+            {
+              "Line": 117,
+              "Offset": 63,
+              "EndOffset": 69,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 117,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 46
+            },
+            {
+              "Line": 117,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 117,
+              "Offset": 90,
+              "EndOffset": 96,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 46
+            },
+            {
+              "Line": 117,
+              "Offset": 48,
+              "EndOffset": 101,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 84
+            },
+            {
+              "Line": 117,
+              "Offset": 75,
+              "EndOffset": 101,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 84
+            }
+          ]
+        },
+        "System.String RollsEngine.Type::ImpliedName(RollsEngine.FunctionExpression)": {
+          "Lines": {
+            "124": 3
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Type::ImpliedName(RollsEngine.AggregateFunction)": {
+          "Lines": {
+            "130": 20,
+            "131": 40,
+            "132": 20,
+            "133": 20
+          },
+          "Branches": [
+            {
+              "Line": 130,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 85,
+              "EndOffset": 87,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 85,
+              "EndOffset": 91,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 48,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 20
+            }
+          ]
+        },
+        "System.IComparable RollsEngine.Type::Eval(RollsEngine.ValueExpression1,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "139": 289,
+            "140": 289,
+            "141": 289,
+            "142": 289,
+            "143": 289,
+            "144": 289,
+            "145": 289,
+            "146": 381,
+            "147": 289
+          },
+          "Branches": [
+            {
+              "Line": 140,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 147
+            },
+            {
+              "Line": 140,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 56
+            },
+            {
+              "Line": 140,
+              "Offset": 35,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 91
+            },
+            {
+              "Line": 140,
+              "Offset": 27,
+              "EndOffset": 137,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 142
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(System.IComparable,RollsEngine.CompareOperator,System.IComparable)": {
+          "Lines": {
+            "150": 39,
+            "151": 39,
+            "153": 26,
+            "154": 2,
+            "155": 3,
+            "156": 3,
+            "157": 2,
+            "158": 3,
+            "159": 0,
+            "161": 39
+          },
+          "Branches": [
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 37,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 26
+            },
+            {
+              "Line": 153,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 153,
+              "Offset": 38,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 26
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 56,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 154,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 154,
+              "Offset": 57,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 155,
+              "Offset": 76,
+              "EndOffset": 78,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 155,
+              "Offset": 76,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 3
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 94,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 156,
+              "Offset": 95,
+              "EndOffset": 97,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 156,
+              "Offset": 95,
+              "EndOffset": 100,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 3
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 116,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 157,
+              "Offset": 117,
+              "EndOffset": 119,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 157,
+              "Offset": 117,
+              "EndOffset": 122,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 2
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 135,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 158,
+              "Offset": 136,
+              "EndOffset": 138,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 158,
+              "Offset": 136,
+              "EndOffset": 141,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 3
+            },
+            {
+              "Line": 151,
+              "Offset": 6,
+              "EndOffset": 157,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(RollsEngine.CompareExpression,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "164": 67,
+            "165": 67,
+            "167": 67,
+            "168": 106,
+            "169": 95,
+            "171": 67,
+            "172": 106,
+            "173": 95,
+            "175": 67,
+            "176": 67,
+            "177": 67,
+            "179": 67,
+            "180": 67
+          },
+          "Branches": [
+            {
+              "Line": 167,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 167,
+              "Offset": 57,
+              "EndOffset": 82,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 67
+            },
+            {
+              "Line": 167,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 167,
+              "Offset": 88,
+              "EndOffset": 113,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 67
+            },
+            {
+              "Line": 171,
+              "Offset": 143,
+              "EndOffset": 145,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 171,
+              "Offset": 143,
+              "EndOffset": 168,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 67
+            },
+            {
+              "Line": 175,
+              "Offset": 185,
+              "EndOffset": 187,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 39
+            },
+            {
+              "Line": 175,
+              "Offset": 185,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 28
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(RollsEngine.LogicalFactor1,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "188": 0,
+            "189": 0
+          },
+          "Branches": [
+            {
+              "Line": 184,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 184,
+              "Offset": 7,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(RollsEngine.LogicalArgument,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "192": 52,
+            "193": 52,
+            "194": 52,
+            "195": 52,
+            "197": 52,
+            "198": 52,
+            "199": 52,
+            "200": 52
+          },
+          "Branches": [
+            {
+              "Line": 193,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 193,
+              "Offset": 12,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 48
+            },
+            {
+              "Line": 197,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 50
+            },
+            {
+              "Line": 197,
+              "Offset": 59,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(RollsEngine.LogicalTerm,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "203": 41,
+            "204": 41,
+            "205": 41,
+            "206": 48,
+            "208": 41,
+            "209": 41
+          },
+          "Branches": [
+            {
+              "Line": 204,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 19
+            },
+            {
+              "Line": 204,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 7
+            },
+            {
+              "Line": 204,
+              "Offset": 53,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 12
+            },
+            {
+              "Line": 204,
+              "Offset": 44,
+              "EndOffset": 83,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 22
+            }
+          ]
+        },
+        "System.Boolean RollsEngine.Type::Eval(RollsEngine.LogicalExpression,RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "212": 25,
+            "213": 25,
+            "214": 25,
+            "215": 37,
+            "217": 25,
+            "218": 25
+          },
+          "Branches": [
+            {
+              "Line": 213,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 17
+            },
+            {
+              "Line": 213,
+              "Offset": 44,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            }
+          ]
+        },
+        "System.Func`2<TObject,System.Boolean> RollsEngine.Type::Eval(RollsEngine.WhereExpression,RollsEngine.IDataService`1<TObject>)": {
+          "Lines": {
+            "221": 20
+          },
+          "Branches": []
+        },
+        "System.Func`2<TObject,TObject> RollsEngine.Type::Eval(RollsEngine.SelectStatement[],RollsEngine.IDataService`1<TObject>)": {
+          "Lines": {
+            "224": 128,
+            "225": 128,
+            "226": 128,
+            "227": 448,
+            "228": 136,
+            "229": 136,
+            "230": 136,
+            "231": 52,
+            "232": 136,
+            "233": 0,
+            "234": 136,
+            "235": 106,
+            "236": 52,
+            "237": 82,
+            "238": 52,
+            "239": 136,
+            "240": 136,
+            "241": 128,
+            "242": 128
+          },
+          "Branches": [
+            {
+              "Line": 227,
+              "Offset": 209,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 84
+            },
+            {
+              "Line": 229,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 229,
+              "Offset": 44,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 84
+            },
+            {
+              "Line": 232,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 232,
+              "Offset": 79,
+              "EndOffset": 110,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 84
+            },
+            {
+              "Line": 234,
+              "Offset": 124,
+              "EndOffset": 126,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 54
+            },
+            {
+              "Line": 234,
+              "Offset": 124,
+              "EndOffset": 167,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 30
+            },
+            {
+              "Line": 227,
+              "Offset": 209,
+              "EndOffset": 214,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 76
+            }
+          ]
+        },
+        "System.Func`3<System.Collections.Generic.Dictionary`2<System.String,System.Decimal>,TObject,System.Collections.Generic.Dictionary`2<System.String,System.Decimal>> RollsEngine.Type::Eval(RollsEngine.AggregateFunction[],RollsEngine.IDataService`1<TObject>)": {
+          "Lines": {
+            "245": 5,
+            "246": 20,
+            "247": 20,
+            "248": 5,
+            "249": 80,
+            "250": 20,
+            "251": 20,
+            "252": 20,
+            "253": 20,
+            "254": 5,
+            "255": 20,
+            "256": 5,
+            "257": 8,
+            "258": 8,
+            "259": 8,
+            "260": 8,
+            "261": 8,
+            "262": 5,
+            "263": 8,
+            "264": 8,
+            "265": 8,
+            "266": 5,
+            "267": 8,
+            "268": 10,
+            "269": 8,
+            "270": 5,
+            "271": 8,
+            "272": 9,
+            "273": 8,
+            "274": 5,
+            "275": 8,
+            "276": 8,
+            "277": 8,
+            "278": 5,
+            "279": 5,
+            "280": 20,
+            "281": 20,
+            "282": 20,
+            "283": 20,
+            "284": 5
+          },
+          "Branches": [
+            {
+              "Line": 249,
+              "Offset": 439,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 15
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 110,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 281,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 320,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 3
+            },
+            {
+              "Line": 268,
+              "Offset": 340,
+              "EndOffset": 342,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 355,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 272,
+              "Offset": 375,
+              "EndOffset": 377,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 390,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 255,
+              "Offset": 80,
+              "EndOffset": 426,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 15
+            },
+            {
+              "Line": 268,
+              "Offset": 340,
+              "EndOffset": 426,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 15
+            },
+            {
+              "Line": 272,
+              "Offset": 375,
+              "EndOffset": 426,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 15
+            },
+            {
+              "Line": 249,
+              "Offset": 439,
+              "EndOffset": 444,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 15
+            }
+          ]
+        },
+        "System.Func`2<TObject,System.IComparable> RollsEngine.Type::Eval(RollsEngine.OrderExpression,RollsEngine.IDataService`1<TObject>)": {
+          "Lines": {
+            "288": 28
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.Dictionary`2<System.String,System.Decimal> RollsEngine.Type::Init(RollsEngine.AggregateFunction[])": {
+          "Lines": {
+            "296": 5,
+            "297": 5,
+            "298": 5,
+            "300": 25,
+            "301": 5,
+            "302": 5,
+            "304": 5,
+            "306": 1,
+            "307": 1,
+            "308": 1,
+            "309": 1,
+            "310": 1,
+            "312": 1,
+            "313": 1,
+            "314": 1,
+            "317": 3,
+            "318": 3,
+            "320": 5,
+            "321": 5,
+            "322": 5,
+            "323": 5
+          },
+          "Branches": [
+            {
+              "Line": 300,
+              "Offset": 187,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5
+            },
+            {
+              "Line": 304,
+              "Offset": 50,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 304,
+              "Offset": 57,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 304,
+              "Offset": 50,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 304,
+              "Offset": 57,
+              "EndOffset": 158,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 300,
+              "Offset": 187,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            }
+          ]
+        }
+      }
+    },
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\Types.cs": {
+      "RollsEngine.NullLiteral": {
+        "System.Void RollsEngine.NullLiteral::.ctor()": {
+          "Lines": {
+            "24": 6
+          },
+          "Branches": []
+        }
+      }
+    },
+    "c:\\Code-Personal\\RollsEngine\\src\\RollsEngine\\Util.cs": {
+      "RollsEngine.Util": {
+        "System.Int32 RollsEngine.Util::Lesser(System.Int32,System.Int32)": {
+          "Lines": {
+            "9": 13466
+          },
+          "Branches": [
+            {
+              "Line": 9,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2072
+            },
+            {
+              "Line": 9,
+              "Offset": 2,
+              "EndOffset": 7,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11394
+            }
+          ]
+        }
+      },
+      "RollsEngine.OrderComparable`1": {
+        "System.Int32 RollsEngine.OrderComparable`1::CompareTo(System.Object)": {
+          "Lines": {
+            "22": 21,
+            "23": 21,
+            "25": 21,
+            "26": 0,
+            "28": 90,
+            "29": 23,
+            "30": 23,
+            "31": 23,
+            "33": 23,
+            "34": 23,
+            "36": 23,
+            "37": 19,
+            "38": 19,
+            "39": 19,
+            "40": 4,
+            "42": 2,
+            "43": 21
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 8,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 21
+            },
+            {
+              "Line": 25,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 39,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 21
+            },
+            {
+              "Line": 28,
+              "Offset": 188,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 23
+            },
+            {
+              "Line": 33,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 119,
+              "EndOffset": 124,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 23
+            },
+            {
+              "Line": 36,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 19
+            },
+            {
+              "Line": 37,
+              "Offset": 162,
+              "EndOffset": 164,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 12
+            },
+            {
+              "Line": 37,
+              "Offset": 162,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 7
+            },
+            {
+              "Line": 36,
+              "Offset": 158,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            },
+            {
+              "Line": 28,
+              "Offset": 188,
+              "EndOffset": 190,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void RollsEngine.OrderComparable`1::.ctor(RollsEngine.OrderStatement[],RollsEngine.IDataService`1<TObject>,TObject)": {
+          "Lines": {
+            "15": 21,
+            "16": 21
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "RollsEngine.Newtonsoft.dll": {
+    "C:\\Code-Personal\\RollsEngine\\src\\RollsEngine.Newtonsoft\\NewtonsoftFunction.cs": {
+      "RollsEngine.Newtonsoft.NewtonsoftFunction": {
+        "System.IComparable RollsEngine.Newtonsoft.NewtonsoftFunction::Execute(Newtonsoft.Json.Linq.JObject,System.String,System.Object[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Code-Personal\\RollsEngine\\src\\RollsEngine.Newtonsoft\\NewtonsoftService.cs": {
+      "RollsEngine.Newtonsoft.NewtonsoftService": {
+        "Newtonsoft.Json.Linq.JObject RollsEngine.Newtonsoft.NewtonsoftService::Add(Newtonsoft.Json.Linq.JObject,System.String,System.Object)": {
+          "Lines": {
+            "19": 89,
+            "20": 89,
+            "21": 89,
+            "22": 89,
+            "24": 89,
+            "25": 54,
+            "27": 35,
+            "28": 89,
+            "30": 89,
+            "31": 89
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 89
+            },
+            {
+              "Line": 22,
+              "Offset": 17,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 35
+            },
+            {
+              "Line": 22,
+              "Offset": 17,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 54
+            },
+            {
+              "Line": 24,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 54
+            },
+            {
+              "Line": 24,
+              "Offset": 35,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 35
+            },
+            {
+              "Line": 20,
+              "Offset": 7,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 89
+            }
+          ]
+        },
+        "System.IComparable RollsEngine.Newtonsoft.NewtonsoftService::Execute(Newtonsoft.Json.Linq.JObject,System.String,System.Object[])": {
+          "Lines": {
+            "34": 56,
+            "40": 56,
+            "42": 6,
+            "43": 6,
+            "44": 6,
+            "45": 2,
+            "46": 2,
+            "47": 1,
+            "48": 2,
+            "49": 2,
+            "50": 22,
+            "51": 22,
+            "52": 22,
+            "53": 4,
+            "54": 2,
+            "56": 3,
+            "57": 2,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 2,
+            "64": 3,
+            "65": 3,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "73": 56
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 41,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 12
+            },
+            {
+              "Line": 40,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 7
+            },
+            {
+              "Line": 40,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 71,
+              "EndOffset": 78,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 62,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 102,
+              "EndOffset": 109,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 116,
+              "EndOffset": 123,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 53,
+              "EndOffset": 140,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 147,
+              "EndOffset": 149,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 156,
+              "EndOffset": 163,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 170,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 147,
+              "EndOffset": 194,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 201,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 215,
+              "EndOffset": 222,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 41,
+              "EndOffset": 239,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 44
+            },
+            {
+              "Line": 40,
+              "Offset": 246,
+              "EndOffset": 248,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 11
+            },
+            {
+              "Line": 40,
+              "Offset": 255,
+              "EndOffset": 257,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 6
+            },
+            {
+              "Line": 40,
+              "Offset": 264,
+              "EndOffset": 271,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 255,
+              "EndOffset": 288,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 295,
+              "EndOffset": 302,
+              "Path": 0,
+              "Ordinal": 38,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 309,
+              "EndOffset": 316,
+              "Path": 0,
+              "Ordinal": 40,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 246,
+              "EndOffset": 333,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 33
+            },
+            {
+              "Line": 40,
+              "Offset": 340,
+              "EndOffset": 342,
+              "Path": 0,
+              "Ordinal": 44,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 349,
+              "EndOffset": 356,
+              "Path": 0,
+              "Ordinal": 46,
+              "Hits": 5
+            },
+            {
+              "Line": 40,
+              "Offset": 363,
+              "EndOffset": 370,
+              "Path": 0,
+              "Ordinal": 48,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 340,
+              "EndOffset": 387,
+              "Path": 1,
+              "Ordinal": 45,
+              "Hits": 28
+            },
+            {
+              "Line": 40,
+              "Offset": 394,
+              "EndOffset": 398,
+              "Path": 0,
+              "Ordinal": 52,
+              "Hits": 22
+            },
+            {
+              "Line": 40,
+              "Offset": 405,
+              "EndOffset": 412,
+              "Path": 0,
+              "Ordinal": 54,
+              "Hits": 22
+            },
+            {
+              "Line": 40,
+              "Offset": 394,
+              "EndOffset": 429,
+              "Path": 1,
+              "Ordinal": 53,
+              "Hits": 6
+            },
+            {
+              "Line": 40,
+              "Offset": 278,
+              "EndOffset": 451,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 215,
+              "EndOffset": 473,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 201,
+              "EndOffset": 495,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 1
+            },
+            {
+              "Line": 40,
+              "Offset": 71,
+              "EndOffset": 517,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 323,
+              "EndOffset": 539,
+              "Path": 1,
+              "Ordinal": 43,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 419,
+              "EndOffset": 561,
+              "Path": 1,
+              "Ordinal": 57,
+              "Hits": 22
+            },
+            {
+              "Line": 40,
+              "Offset": 264,
+              "EndOffset": 583,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 4
+            },
+            {
+              "Line": 40,
+              "Offset": 363,
+              "EndOffset": 605,
+              "Path": 1,
+              "Ordinal": 49,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 102,
+              "EndOffset": 627,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 156,
+              "EndOffset": 649,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 184,
+              "EndOffset": 671,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 170,
+              "EndOffset": 693,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 229,
+              "EndOffset": 715,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 85,
+              "EndOffset": 737,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 130,
+              "EndOffset": 759,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 309,
+              "EndOffset": 781,
+              "Path": 1,
+              "Ordinal": 41,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 377,
+              "EndOffset": 803,
+              "Path": 1,
+              "Ordinal": 51,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 405,
+              "EndOffset": 825,
+              "Path": 1,
+              "Ordinal": 55,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 349,
+              "EndOffset": 847,
+              "Path": 1,
+              "Ordinal": 47,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 116,
+              "EndOffset": 869,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 295,
+              "EndOffset": 891,
+              "Path": 1,
+              "Ordinal": 39,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 441,
+              "EndOffset": 913,
+              "Path": 1,
+              "Ordinal": 59,
+              "Hits": 6
+            },
+            {
+              "Line": 42,
+              "Offset": 922,
+              "EndOffset": 924,
+              "Path": 0,
+              "Ordinal": 102,
+              "Hits": 2
+            },
+            {
+              "Line": 42,
+              "Offset": 933,
+              "EndOffset": 935,
+              "Path": 0,
+              "Ordinal": 104,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 933,
+              "EndOffset": 939,
+              "Path": 1,
+              "Ordinal": 105,
+              "Hits": 2
+            },
+            {
+              "Line": 42,
+              "Offset": 922,
+              "EndOffset": 954,
+              "Path": 1,
+              "Ordinal": 103,
+              "Hits": 4
+            },
+            {
+              "Line": 42,
+              "Offset": 963,
+              "EndOffset": 965,
+              "Path": 0,
+              "Ordinal": 106,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 963,
+              "EndOffset": 969,
+              "Path": 1,
+              "Ordinal": 107,
+              "Hits": 4
+            },
+            {
+              "Line": 40,
+              "Offset": 463,
+              "EndOffset": 997,
+              "Path": 1,
+              "Ordinal": 61,
+              "Hits": 2
+            },
+            {
+              "Line": 45,
+              "Offset": 1006,
+              "EndOffset": 1008,
+              "Path": 0,
+              "Ordinal": 108,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 1006,
+              "EndOffset": 1012,
+              "Path": 1,
+              "Ordinal": 109,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 485,
+              "EndOffset": 1024,
+              "Path": 1,
+              "Ordinal": 63,
+              "Hits": 2
+            },
+            {
+              "Line": 46,
+              "Offset": 1033,
+              "EndOffset": 1035,
+              "Path": 0,
+              "Ordinal": 110,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1033,
+              "EndOffset": 1039,
+              "Path": 1,
+              "Ordinal": 111,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 507,
+              "EndOffset": 1051,
+              "Path": 1,
+              "Ordinal": 65,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 1060,
+              "EndOffset": 1062,
+              "Path": 0,
+              "Ordinal": 112,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 1060,
+              "EndOffset": 1066,
+              "Path": 1,
+              "Ordinal": 113,
+              "Hits": 1
+            },
+            {
+              "Line": 40,
+              "Offset": 529,
+              "EndOffset": 1078,
+              "Path": 1,
+              "Ordinal": 67,
+              "Hits": 2
+            },
+            {
+              "Line": 48,
+              "Offset": 1087,
+              "EndOffset": 1089,
+              "Path": 0,
+              "Ordinal": 114,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 1087,
+              "EndOffset": 1093,
+              "Path": 1,
+              "Ordinal": 115,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 551,
+              "EndOffset": 1105,
+              "Path": 1,
+              "Ordinal": 69,
+              "Hits": 2
+            },
+            {
+              "Line": 49,
+              "Offset": 1114,
+              "EndOffset": 1116,
+              "Path": 0,
+              "Ordinal": 116,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 1114,
+              "EndOffset": 1120,
+              "Path": 1,
+              "Ordinal": 117,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 573,
+              "EndOffset": 1132,
+              "Path": 1,
+              "Ordinal": 71,
+              "Hits": 22
+            },
+            {
+              "Line": 50,
+              "Offset": 1141,
+              "EndOffset": 1143,
+              "Path": 0,
+              "Ordinal": 118,
+              "Hits": 22
+            },
+            {
+              "Line": 50,
+              "Offset": 1152,
+              "EndOffset": 1154,
+              "Path": 0,
+              "Ordinal": 120,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 1152,
+              "EndOffset": 1158,
+              "Path": 1,
+              "Ordinal": 121,
+              "Hits": 22
+            },
+            {
+              "Line": 50,
+              "Offset": 1141,
+              "EndOffset": 1173,
+              "Path": 1,
+              "Ordinal": 119,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 1182,
+              "EndOffset": 1184,
+              "Path": 0,
+              "Ordinal": 122,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 1182,
+              "EndOffset": 1188,
+              "Path": 1,
+              "Ordinal": 123,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 595,
+              "EndOffset": 1222,
+              "Path": 1,
+              "Ordinal": 73,
+              "Hits": 4
+            },
+            {
+              "Line": 53,
+              "Offset": 1231,
+              "EndOffset": 1233,
+              "Path": 0,
+              "Ordinal": 124,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 1231,
+              "EndOffset": 1237,
+              "Path": 1,
+              "Ordinal": 125,
+              "Hits": 4
+            },
+            {
+              "Line": 53,
+              "Offset": 1252,
+              "EndOffset": 1254,
+              "Path": 0,
+              "Ordinal": 126,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 1252,
+              "EndOffset": 1261,
+              "Path": 1,
+              "Ordinal": 127,
+              "Hits": 4
+            },
+            {
+              "Line": 40,
+              "Offset": 617,
+              "EndOffset": 1282,
+              "Path": 1,
+              "Ordinal": 75,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 639,
+              "EndOffset": 1310,
+              "Path": 1,
+              "Ordinal": 77,
+              "Hits": 3
+            },
+            {
+              "Line": 56,
+              "Offset": 1319,
+              "EndOffset": 1321,
+              "Path": 0,
+              "Ordinal": 128,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 1319,
+              "EndOffset": 1325,
+              "Path": 1,
+              "Ordinal": 129,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 661,
+              "EndOffset": 1342,
+              "Path": 1,
+              "Ordinal": 79,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 1351,
+              "EndOffset": 1353,
+              "Path": 0,
+              "Ordinal": 130,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 1351,
+              "EndOffset": 1357,
+              "Path": 1,
+              "Ordinal": 131,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 683,
+              "EndOffset": 1369,
+              "Path": 1,
+              "Ordinal": 81,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 1378,
+              "EndOffset": 1380,
+              "Path": 0,
+              "Ordinal": 132,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 1378,
+              "EndOffset": 1384,
+              "Path": 1,
+              "Ordinal": 133,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 705,
+              "EndOffset": 1396,
+              "Path": 1,
+              "Ordinal": 83,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 1405,
+              "EndOffset": 1407,
+              "Path": 0,
+              "Ordinal": 134,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 1405,
+              "EndOffset": 1411,
+              "Path": 1,
+              "Ordinal": 135,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 727,
+              "EndOffset": 1431,
+              "Path": 1,
+              "Ordinal": 85,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 1440,
+              "EndOffset": 1442,
+              "Path": 0,
+              "Ordinal": 136,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 1440,
+              "EndOffset": 1455,
+              "Path": 1,
+              "Ordinal": 137,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 749,
+              "EndOffset": 1477,
+              "Path": 1,
+              "Ordinal": 87,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 771,
+              "EndOffset": 1503,
+              "Path": 1,
+              "Ordinal": 89,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 793,
+              "EndOffset": 1529,
+              "Path": 1,
+              "Ordinal": 91,
+              "Hits": 3
+            },
+            {
+              "Line": 64,
+              "Offset": 1544,
+              "EndOffset": 1546,
+              "Path": 0,
+              "Ordinal": 138,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 1544,
+              "EndOffset": 1549,
+              "Path": 1,
+              "Ordinal": 139,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 815,
+              "EndOffset": 1568,
+              "Path": 1,
+              "Ordinal": 93,
+              "Hits": 3
+            },
+            {
+              "Line": 65,
+              "Offset": 1583,
+              "EndOffset": 1585,
+              "Path": 0,
+              "Ordinal": 140,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 1583,
+              "EndOffset": 1588,
+              "Path": 1,
+              "Ordinal": 141,
+              "Hits": 3
+            },
+            {
+              "Line": 40,
+              "Offset": 837,
+              "EndOffset": 1607,
+              "Path": 1,
+              "Ordinal": 95,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1622,
+              "EndOffset": 1624,
+              "Path": 0,
+              "Ordinal": 142,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 1622,
+              "EndOffset": 1627,
+              "Path": 1,
+              "Ordinal": 143,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 859,
+              "EndOffset": 1646,
+              "Path": 1,
+              "Ordinal": 97,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 1661,
+              "EndOffset": 1663,
+              "Path": 0,
+              "Ordinal": 144,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 1661,
+              "EndOffset": 1666,
+              "Path": 1,
+              "Ordinal": 145,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 881,
+              "EndOffset": 1682,
+              "Path": 1,
+              "Ordinal": 99,
+              "Hits": 0
+            },
+            {
+              "Line": 68,
+              "Offset": 1697,
+              "EndOffset": 1699,
+              "Path": 0,
+              "Ordinal": 146,
+              "Hits": 0
+            },
+            {
+              "Line": 68,
+              "Offset": 1697,
+              "EndOffset": 1702,
+              "Path": 1,
+              "Ordinal": 147,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 903,
+              "EndOffset": 1718,
+              "Path": 1,
+              "Ordinal": 101,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1733,
+              "EndOffset": 1735,
+              "Path": 0,
+              "Ordinal": 148,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1733,
+              "EndOffset": 1738,
+              "Path": 1,
+              "Ordinal": 149,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 85,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 130,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 184,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 229,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 278,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 323,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 42,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 377,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 50,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 419,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 56,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 441,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 58,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 463,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 60,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 485,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 62,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 507,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 64,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 529,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 66,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 551,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 68,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 573,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 70,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 595,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 72,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 617,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 74,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 639,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 76,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 661,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 78,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 683,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 80,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 705,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 82,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 727,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 84,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 749,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 86,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 771,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 88,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 793,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 90,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 815,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 92,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 837,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 94,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 859,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 96,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 881,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 98,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 903,
+              "EndOffset": 1754,
+              "Path": 0,
+              "Ordinal": 100,
+              "Hits": 0
+            }
+          ]
+        },
+        "Newtonsoft.Json.Linq.JObject RollsEngine.Newtonsoft.NewtonsoftService::New()": {
+          "Lines": {
+            "76": 98
+          },
+          "Branches": []
+        },
+        "System.Decimal RollsEngine.Newtonsoft.NewtonsoftService::Number(System.IComparable)": {
+          "Lines": {
+            "79": 15,
+            "80": 15,
+            "81": 15,
+            "82": 15,
+            "83": 15,
+            "84": 15
+          },
+          "Branches": [
+            {
+              "Line": 81,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 81,
+              "Offset": 21,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 12
+            }
+          ]
+        },
+        "System.IComparable RollsEngine.Newtonsoft.NewtonsoftService::Path(Newtonsoft.Json.Linq.JObject,System.String)": {
+          "Lines": {
+            "86": 145,
+            "87": 145,
+            "88": 145,
+            "89": 145,
+            "90": 145,
+            "92": 145,
+            "93": 145
+          },
+          "Branches": [
+            {
+              "Line": 88,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 140
+            },
+            {
+              "Line": 88,
+              "Offset": 13,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<Newtonsoft.Json.Linq.JObject> RollsEngine.Newtonsoft.NewtonsoftService::Read(System.String)": {
+          "Lines": {
+            "96": 19
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<Newtonsoft.Json.Linq.JObject> RollsEngine.Newtonsoft.NewtonsoftService::Read(System.String,System.String[])": {
+          "Lines": {
+            "99": 21
+          },
+          "Branches": []
+        },
+        "T RollsEngine.Newtonsoft.NewtonsoftService::Unbox(System.Int32,System.Object[])": {
+          "Lines": {
+            "103": 82,
+            "104": 82,
+            "105": 82,
+            "107": 82,
+            "108": 82
+          },
+          "Branches": [
+            {
+              "Line": 104,
+              "Offset": 5,
+              "EndOffset": 7,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 82
+            },
+            {
+              "Line": 104,
+              "Offset": 5,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "T RollsEngine.Newtonsoft.NewtonsoftService::Unbox(System.Object)": {
+          "Lines": {
+            "112": 97,
+            "113": 97,
+            "114": 97,
+            "115": 97,
+            "116": 97,
+            "118": 97,
+            "119": 97
+          },
+          "Branches": [
+            {
+              "Line": 113,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 49
+            },
+            {
+              "Line": 113,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 48
+            },
+            {
+              "Line": 113,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 113,
+              "Offset": 20,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 48
+            },
+            {
+              "Line": 113,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 52
+            },
+            {
+              "Line": 113,
+              "Offset": 42,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 52
+            },
+            {
+              "Line": 113,
+              "Offset": 42,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 113,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 113,
+              "Offset": 54,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 113,
+              "Offset": 66,
+              "EndOffset": 68,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 52
+            },
+            {
+              "Line": 113,
+              "Offset": 32,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 97
+            },
+            {
+              "Line": 113,
+              "Offset": 66,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 97
+            }
+          ]
+        },
+        "T RollsEngine.Newtonsoft.NewtonsoftService::As(System.Int32,System.Object[])": {
+          "Lines": {
+            "123": 10,
+            "124": 10,
+            "125": 10,
+            "127": 10,
+            "128": 10
+          },
+          "Branches": [
+            {
+              "Line": 124,
+              "Offset": 5,
+              "EndOffset": 7,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 10
+            },
+            {
+              "Line": 124,
+              "Offset": 5,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "T RollsEngine.Newtonsoft.NewtonsoftService::As(System.Object)": {
+          "Lines": {
+            "132": 10,
+            "133": 10,
+            "135": 10,
+            "136": 10
+          },
+          "Branches": [
+            {
+              "Line": 133,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 10
+            },
+            {
+              "Line": 133,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 133,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 133,
+              "Offset": 20,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 133,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 10
+            },
+            {
+              "Line": 133,
+              "Offset": 32,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 10
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<T> RollsEngine.Newtonsoft.NewtonsoftService::<Execute>g__toEnum|5_0(System.Int32,RollsEngine.Newtonsoft.NewtonsoftService/<>c__DisplayClass5_0&)": {
+          "Lines": {
+            "35": 7
+          },
+          "Branches": []
+        },
+        "System.String RollsEngine.Newtonsoft.NewtonsoftService::<Execute>g__toString|5_1(System.Int32,RollsEngine.Newtonsoft.NewtonsoftService/<>c__DisplayClass5_0&)": {
+          "Lines": {
+            "36": 75
+          },
+          "Branches": []
+        },
+        "System.Int32 RollsEngine.Newtonsoft.NewtonsoftService::<Execute>g__toInt|5_2(System.Int32,RollsEngine.Newtonsoft.NewtonsoftService/<>c__DisplayClass5_0&)": {
+          "Lines": {
+            "37": 10
+          },
+          "Branches": []
+        },
+        "System.Boolean RollsEngine.Newtonsoft.NewtonsoftService::<Execute>g__toBool|5_3(System.Int32,RollsEngine.Newtonsoft.NewtonsoftService/<>c__DisplayClass5_0&)": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Newtonsoft.NewtonsoftService::.ctor(RollsEngine.Newtonsoft.INewtonsoftSource)": {
+          "Lines": {
+            "13": 1,
+            "14": 1
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Newtonsoft.NewtonsoftService::.ctor(RollsEngine.Newtonsoft.INewtonsoftSource,RollsEngine.Newtonsoft.INewtonsoftFunction)": {
+          "Lines": {
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Code-Personal\\RollsEngine\\src\\RollsEngine.Newtonsoft\\Types.cs": {
+      "RollsEngine.Newtonsoft.ComparableToken": {
+        "System.Int32 RollsEngine.Newtonsoft.ComparableToken::CompareTo(System.Object)": {
+          "Lines": {
+            "19": 24,
+            "20": 24,
+            "21": 24,
+            "22": 24,
+            "24": 24,
+            "25": 24
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 24
+            },
+            {
+              "Line": 21,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 21,
+              "Offset": 27,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 23
+            },
+            {
+              "Line": 21,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 39,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 23
+            },
+            {
+              "Line": 21,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 21,
+              "Offset": 51,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 24
+            },
+            {
+              "Line": 22,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 57,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 24
+            }
+          ]
+        },
+        "System.IComparable RollsEngine.Newtonsoft.ComparableToken::Create(Newtonsoft.Json.Linq.JToken)": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.IComparable RollsEngine.Newtonsoft.ComparableToken::ToComparable(Newtonsoft.Json.Linq.JToken)": {
+          "Lines": {
+            "31": 47,
+            "32": 47,
+            "33": 47,
+            "34": 47,
+            "35": 47,
+            "36": 47,
+            "37": 47,
+            "38": 47
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 1,
+              "EndOffset": 6,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 47
+            },
+            {
+              "Line": 31,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 47
+            },
+            {
+              "Line": 31,
+              "Offset": 24,
+              "EndOffset": 26,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 47
+            },
+            {
+              "Line": 31,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 47
+            },
+            {
+              "Line": 31,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 47
+            },
+            {
+              "Line": 31,
+              "Offset": 52,
+              "EndOffset": 54,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 10
+            },
+            {
+              "Line": 31,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 61,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 10
+            },
+            {
+              "Line": 31,
+              "Offset": 52,
+              "EndOffset": 76,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 37
+            },
+            {
+              "Line": 31,
+              "Offset": 43,
+              "EndOffset": 91,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 33,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 24,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 14,
+              "EndOffset": 136,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1,
+              "EndOffset": 151,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Object RollsEngine.Newtonsoft.ComparableToken::ToPrimitive(Newtonsoft.Json.Linq.JToken)": {
+          "Lines": {
+            "41": 63,
+            "42": 63,
+            "43": 63,
+            "44": 63,
+            "45": 63,
+            "46": 63,
+            "47": 63,
+            "48": 63,
+            "49": 63
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 1,
+              "EndOffset": 6,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 63
+            },
+            {
+              "Line": 41,
+              "Offset": 14,
+              "EndOffset": 19,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 63
+            },
+            {
+              "Line": 41,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 56
+            },
+            {
+              "Line": 41,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 56
+            },
+            {
+              "Line": 41,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 56
+            },
+            {
+              "Line": 41,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 56
+            },
+            {
+              "Line": 41,
+              "Offset": 64,
+              "EndOffset": 66,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 44
+            },
+            {
+              "Line": 41,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 4
+            },
+            {
+              "Line": 41,
+              "Offset": 73,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 40
+            },
+            {
+              "Line": 41,
+              "Offset": 64,
+              "EndOffset": 86,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 12
+            },
+            {
+              "Line": 41,
+              "Offset": 55,
+              "EndOffset": 99,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 45,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 36,
+              "EndOffset": 125,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 26,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 7
+            },
+            {
+              "Line": 41,
+              "Offset": 145,
+              "EndOffset": 147,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 145,
+              "EndOffset": 151,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 7
+            },
+            {
+              "Line": 41,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 157,
+              "EndOffset": 163,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 7
+            },
+            {
+              "Line": 41,
+              "Offset": 181,
+              "EndOffset": 183,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 181,
+              "EndOffset": 187,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 7
+            },
+            {
+              "Line": 41,
+              "Offset": 14,
+              "EndOffset": 194,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 1,
+              "EndOffset": 207,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void RollsEngine.Newtonsoft.ComparableToken::.ctor(Newtonsoft.Json.Linq.JToken)": {
+          "Lines": {
+            "9": 149,
+            "10": 149,
+            "11": 196,
+            "12": 197
+          },
+          "Branches": []
+        }
+      },
+      "RollsEngine.Newtonsoft.NonComparableToken": {
+        "System.Int32 RollsEngine.Newtonsoft.NonComparableToken::CompareTo(System.Object)": {
+          "Lines": {
+            "57": 0
+          },
+          "Branches": []
+        },
+        "System.Void RollsEngine.Newtonsoft.NonComparableToken::.ctor(Newtonsoft.Json.Linq.JToken)": {
+          "Lines": {
+            "54": 27
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
