@@ -90,9 +90,8 @@ RollsQuery.Execute(service, "SELECT myFunc($) FROM my-data-source-name");
 
 ## Available Functions
 
----
 ### String Functions
----
+
 | Name   | Parameters | Return
  ------- |----------- | ------
 | SUB    | value (string), start (int), optional length (int) | string
@@ -105,9 +104,8 @@ RollsQuery.Execute(service, "SELECT myFunc($) FROM my-data-source-name");
 | SPLIT  | value (string), delimiter (string) | array
 | JOIN   | delimiter (string), value (string) | string
 
----
 ### Array Functions
----
+
 | Name   | Parameters | Return
  ------- |----------- | ------
 | ANY    | values (array) | bool
@@ -116,9 +114,8 @@ RollsQuery.Execute(service, "SELECT myFunc($) FROM my-data-source-name");
 | AT     | values (array), index (int) | value
 | LENGTH | values (array) | int
 
----
 ### Date Time Functions
----
+
 
 | Name   | Parameters | Return
  ------- |----------- | ------
@@ -131,9 +128,8 @@ RollsQuery.Execute(service, "SELECT myFunc($) FROM my-data-source-name");
 | MINUTE | datetime (string) | int
 | SECOND | datetime (string) | int
 
----
 ### Aggregate Functions
----
+
 | Name   | Parameters | Return
  ------- |----------- | ------
 | COUNT  | $          | int
