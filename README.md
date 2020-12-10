@@ -2,6 +2,9 @@
 
 A abstract query execution engine based on JsonPath syntax
 
+[![pipeline status](https://gitlab.com/adleatherwood/rollsengine/badges/master/pipeline.svg)](https://gitlab.com/adleatherwood/rollsengine/-/commits/master)
+[![coverage report](https://gitlab.com/adleatherwood/rollsengine/badges/master/coverage.svg)](https://gitlab.com/adleatherwood/rollsengine/-/commits/master)
+
 ## Installation
 
 ```
@@ -137,3 +140,7 @@ RollsQuery.Execute(service, "SELECT myFunc($) FROM my-data-source-name");
 | MIN    | int        | int
 | MAX    | int        | int
 | AVG    | int        | int
+
+---
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
